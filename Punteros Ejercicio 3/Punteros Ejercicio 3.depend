@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1477849610 source:c:\users\telefonica\desktop\punteros ejercicio 3\main.c
+
+1477855251 source:c:\users\telefonica\desktop\punteros ejercicio 3\lib.c
+	<stdio.h>
+	<stdlib.h>
+	"lib.h"
+
+1477852927 c:\users\telefonica\desktop\punteros ejercicio 3\lib.h
+

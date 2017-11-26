@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1481718082 source:c:\users\alumno\desktop\final_lareu_fernando_1b\arraylist.c
+	<stdio.h>
+	<stdlib.h>
+	"ArrayList.h"
+
+1481718082 c:\users\alumno\desktop\final_lareu_fernando_1b\arraylist.h
+
+1481722000 source:c:\users\alumno\desktop\final_lareu_fernando_1b\lib.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayList.h"
+	"lib.h"
+
+1481721827 c:\users\alumno\desktop\final_lareu_fernando_1b\lib.h
+	"ArrayList.h"
+
+1481721001 source:c:\users\alumno\desktop\final_lareu_fernando_1b\main.c
+	<stdio.h>
+	<stdlib.h>
+	"ArrayList.h"
+	"lib.h"
+

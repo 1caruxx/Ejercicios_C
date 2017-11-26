@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1475432637 source:c:\users\telefonica\desktop\prueba definitiva antes del primer parcial\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1475433178 source:c:\users\telefonica\desktop\prueba definitiva antes del primer parcial\lib.c
+	<stdio.h>
+	<stdlib.h>
+	"lib.h"
+
+1475429033 c:\users\telefonica\desktop\prueba definitiva antes del primer parcial\lib.h
+

@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1477961870 source:c:\users\telefonica\desktop\archivos ejercicio 1.5\main.c
+	<stdio.h>
+	<stdlib.h>
+	"lib.h"
+
+1477955006 c:\users\telefonica\desktop\archivos ejercicio 1.5\lib.h
+

@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1446667744 source:c:\users\telefonica\desktop\ejercicio clase 18\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1477951820 source:c:\users\telefonica\desktop\ejercicio clase 18\lib.c
+	<stdio.h>
+	<stdlib.h>
+	"lib.h"
+
+1477951820 c:\users\telefonica\desktop\ejercicio clase 18\lib.h
+

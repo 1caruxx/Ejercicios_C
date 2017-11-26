@@ -1,0 +1,45 @@
+# depslib dependency file v1.0
+1481391056 source:c:\users\telefonica\desktop\final\arraylist.c
+	<stdio.h>
+	<stdlib.h>
+	"ArrayList.h"
+
+1481386856 c:\users\telefonica\desktop\final\arraylist.h
+
+1481481458 source:c:\users\telefonica\desktop\final\main.c
+	<stdio.h>
+	<stdlib.h>
+	"ArrayList.h"
+	"Mensajes.h"
+	"Usuarios.h"
+	"Feed.h"
+
+1481481722 source:c:\users\telefonica\desktop\final\feed.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayList.h"
+	"Mensajes.h"
+	"Usuarios.h"
+	"Feed.h"
+
+1481406225 source:c:\users\telefonica\desktop\final\usuarios.c
+	<stdio.h>
+	<stdlib.h>
+	"ArrayList.h"
+	"Usuarios.h"
+
+1481406226 source:c:\users\telefonica\desktop\final\mensajes.c
+	<stdio.h>
+	<stdlib.h>
+	"ArrayList.h"
+	"Mensajes.h"
+
+1481396779 c:\users\telefonica\desktop\final\mensajes.h
+	"ArrayList.h"
+
+1481396976 c:\users\telefonica\desktop\final\usuarios.h
+	"ArrayList.h"
+
+1481481435 c:\users\telefonica\desktop\final\feed.h
+

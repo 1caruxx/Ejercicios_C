@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1480814231 source:c:\users\telefonica\desktop\modelo de final\arraylist.c
+	<stdio.h>
+	<stdlib.h>
+	"ArrayList.h"
+
+1480801978 c:\users\telefonica\desktop\modelo de final\arraylist.h
+
+1481053735 source:c:\users\telefonica\desktop\modelo de final\lib.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"lib.h"
+	"Arraylist.h"
+
+1481053475 c:\users\telefonica\desktop\modelo de final\lib.h
+	"Arraylist.h"
+
+1480814231 source:c:\users\telefonica\desktop\modelo de final\main.c
+	<stdio.h>
+	<stdlib.h>
+

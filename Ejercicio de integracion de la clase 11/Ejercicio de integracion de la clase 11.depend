@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1473993895 source:c:\users\telefonica\desktop\ejercicio de integracion de la clase 11\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1473992545 c:\users\telefonica\desktop\ejercicio de integracion de la clase 11\funciones.h
+
+1473994920 source:c:\users\telefonica\desktop\ejercicio de integracion de la clase 11\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+

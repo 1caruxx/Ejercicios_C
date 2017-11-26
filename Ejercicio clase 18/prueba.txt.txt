@@ -1,0 +1,8 @@
+1,Eric,Knight,false
+2,Annie,Castillo,true
+3,Johnny,Dunn,false
+4,Lawrence,Payne,true
+5,Sara,Duncan,true
+6,Alan,Webb,true
+7,Joan,Payne,false
+8,Jason,Perez,false
