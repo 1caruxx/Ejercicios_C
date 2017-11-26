@@ -1,6 +1,6 @@
 # Ejercicios C
 
-Este repositorio contiene la resolucion de los ejercicios de la [guia]().
+Este repositorio contiene la resolucion de los ejercicios de la [guia](https://github.com/1caruxx/Ejercicios_C/blob/master/Gu%C3%ADa%20de%20ejercicios.pdf).
 
 ## Lenguajes
 
